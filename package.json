@@ -37,6 +37,10 @@
       }]
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jshaptic/autodocs-vscode-support"
+  },
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
